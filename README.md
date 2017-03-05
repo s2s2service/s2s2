@@ -1,4 +1,8 @@
-## SWATHANTRA SOFTWARE      HARD WARE AND SOFTWARE COMPANY
+## SWATHANTRA SOFTWARE 
+
+
+
+HARD WARE AND SOFTWARE COMPANY
 
 You can use the [editor on GitHub](https://github.com/s2s2service/s2s2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
